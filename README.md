@@ -19,6 +19,6 @@ Estou atuando como Dev FullStack Jr e a stack que estou praticando no dia a dia 
 <hr />
 
 ### Resumos de atuação no Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eraldosiniciof&langs_count=8&theme=dark&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eraldosiniciof&show_icons=true&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eraldosiniciof&langs_count=8&theme=dark&layout=compact) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eraldosiniciof&show_icons=true&theme=dark)
+|---|---|
 <hr />
