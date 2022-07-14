@@ -1,7 +1,5 @@
 ## Oi, Sou [Eraldo Sinicio](https://www.linkedin.com/in/eraldosiniciof).
 
-Desenvolver soluções techs é minha paixão.
-
 Em Outubro de 2021 recebi a oportunidade de trabalhar na [Mission Brasil](https://www.missionbrasil.com.br/).
 
 Uma empresa que atende a necessidade do cliente dando a oportunidade do usuário ganhar um dinheiro extra cumprindo missões no app.
