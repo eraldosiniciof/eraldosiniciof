@@ -2,8 +2,6 @@
 
 Em Outubro de 2021 recebi a oportunidade de trabalhar na [Mission Brasil](https://www.missionbrasil.com.br/).
 
-Uma empresa que atende a necessidade do cliente dando a oportunidade do usuário ganhar um dinheiro extra cumprindo missões no app.
-
 Estou atuando como Dev FullStack Jr e a stack que estou praticando no dia a dia é:
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
